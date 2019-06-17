@@ -1,0 +1,27 @@
+{
+  "name": "stylelint-config-jenahajek",
+  "description": "Personal stylelint configuration",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jenahajek/stylelint-config-jenahajek"
+  },
+  "keywords": [],
+  "author": {
+    "name": "jena.hajek",
+    "email": "jena.hajek@gmail.com",
+    "url": "https://jenahajek.com"
+  },
+  "bugs": {
+    "url": "https://github.com/ashleygwilliams/my_package/issues"
+  },
+  "homepage": "https://github.com/ashleygwilliams/my_package",
+  "dependencies": {
+    "stylelint-config-recommended": "^2.2.0",
+    "stylelint-config-standard": "^18.3.0"
+  },
+  "license": "MIT"
+}
