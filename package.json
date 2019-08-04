@@ -1,7 +1,7 @@
 {
   "name": "stylelint-config-jenahajek",
   "description": "Personal stylelint configuration",
-  "version": "1.1.0",
+  "version": "1.1.1-pre",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
